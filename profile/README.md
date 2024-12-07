@@ -3,7 +3,7 @@
 ## C242-PS017
 ### Team Members
 
-![Member](https://github.com/ScanCare-Team/.github/profile/profile-scancare)
+![Member](https://github.com/ScanCare-Team/.github/profile/profile-scancare.png)
 
 * [active] (ML) M375B4KX0667 Artika Yudia – Universitas Dipa Makassar
 * [active] (ML) M278B4KX4510 Wulandari – Universitas Negeri Makassar
