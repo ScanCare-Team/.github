@@ -17,3 +17,11 @@
 
 ## Explanation of ScanCare
 ### Background Problem
+---
+## Authors
+- [@artikayudia](https://github.com/orgs/ScanCare-Team/people/artikayudia)
+- [@wlndry](https://github.com/orgs/ScanCare-Team/people/wlndry)
+- [@dindaa06](https://github.com/orgs/ScanCare-Team/people/dindaa06)
+- [@Asrin111](https://github.com/orgs/ScanCare-Team/people/Asrin111)
+- [@ALIF0213](https://github.com/orgs/ScanCare-Team/people/ALIF0213)
+- [@andibatari](https://github.com/orgs/ScanCare-Team/people/andibatari)
