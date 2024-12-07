@@ -13,3 +13,7 @@
 * [active] (CC) C135B4KX0703 Asrini Muhsin – Politeknik Negeri Ujung Pandang
 * [active] (MD) A278B4KY2715 – Muhammad Alif Leo – Universitas Negeri Makassar
 * [active] (MD) A769B4KX0497 – Andi Batari Saudah Sajidah – Universitas Islam Makassar
+---
+
+## Explanation of ScanCare
+### Background Problem
