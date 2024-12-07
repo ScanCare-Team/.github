@@ -17,6 +17,8 @@
 
 ## Explanation of ScanCare
 ### Background Problem
+In February 2024, the National Agency of Drug and Food Control (BPOM) identified 51,791 problematic cosmetic products, including 5,937 products containing hazardous ingredients and 2,475 skincare products that failed to meet standards. These findings highlight the serious risks consumers face when using unsafe cosmetics.  
+
 ---
 ## Authors
 - [@artikayudia](https://github.com/orgs/ScanCare-Team/people/artikayudia)
