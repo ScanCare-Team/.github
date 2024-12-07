@@ -1,5 +1,6 @@
 # ScanCare
-![Member](https://github.com/ScanCare-Team/.github/blob/main/profile/ScanCare%20%20Skincare%20Ingredient%20Safety%20Detector%20(2).png)
+![Cover](https://github.com/ScanCare-Team/.github/blob/main/profile/ScanCare%20%20Skincare%20Ingredient%20Safety%20Detector%20(2).png)
+
 
 ## C242-PS017
 ### Team Members
