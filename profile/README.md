@@ -19,6 +19,13 @@
 ### Background Problem
 In February 2024, the National Agency of Drug and Food Control (BPOM) identified 51,791 problematic cosmetic products, including 5,937 products containing hazardous ingredients and 2,475 skincare products that failed to meet standards. These findings highlight the serious risks consumers face when using unsafe cosmetics.  
 
+### Reason
+
+During our brainstorming session, we identified a significant issue: many skincare products on the market contain harmful ingredients that can damage the skin. Often, people purchase these products without fully understanding their composition or whether they are safe for skin health. Additionally, there is a lack of awareness regarding which ingredients might pose risks to human skin. Therefore, our team has devised an innovative solution: a mobile application that can scan the composition of skincare products, detect any harmful substances, and provide clear, user-friendly information on whether the product is safe or risky. Through this app, we aim to assist people in choosing healthier, safer skincare options.
+
+### Solution
+
+“ScanCare: Skincare Ingredient Safety Detector” muncul sebagai solusi inovatif untuk membantu konsumen memastikan keamanan produk perawatan kulit sebelum digunakan. Aplikasi ini memanfaatkan teknologi Optical Character Recognition (OCR) untuk memindai label produk dan machine learning untuk menganalisa bahan-bahan perawatan kulit. Dengan basis data bahan berbahaya dari BPOM, aplikasi ini memberikan rekomendasi keamanan, membantu pengguna memilih produk yang aman dan sesuai.  
 ---
 ## Authors
 - [@artikayudia](https://github.com/orgs/ScanCare-Team/people/artikayudia)
