@@ -26,7 +26,7 @@ During our brainstorming session, we identified a significant issue: many skinca
 
 ### Solution
 
-“ScanCare: Skincare Ingredient Safety Detector” muncul sebagai solusi inovatif untuk membantu konsumen memastikan keamanan produk perawatan kulit sebelum digunakan. Aplikasi ini memanfaatkan teknologi Optical Character Recognition (OCR) untuk memindai label produk dan machine learning untuk menganalisa bahan-bahan perawatan kulit. Dengan basis data bahan berbahaya dari BPOM, aplikasi ini memberikan rekomendasi keamanan, membantu pengguna memilih produk yang aman dan sesuai.  
+“ScanCare: Skincare Ingredient Safety Detector” emerged as an innovative solution to help consumers ensure the safety of skincare products before use. The app utilizes Optical Character Recognition (OCR) technology to scan product labels and machine learning to analyze skincare ingredients. With a database of hazardous ingredients from BPOM, the app provides safety recommendations, helping users choose safe and suitable products.
 
 ---
 ## Authors
