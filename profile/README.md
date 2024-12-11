@@ -36,3 +36,6 @@ During our brainstorming session, we identified a significant issue: many skinca
 - [@Asrin111](https://github.com/orgs/ScanCare-Team/people/Asrin111)
 - [@ALIF0213](https://github.com/orgs/ScanCare-Team/people/ALIF0213)
 - [@andibatari](https://github.com/orgs/ScanCare-Team/people/andibatari)
+
+![TY](https://github.com/ScanCare-Team/.github/blob/main/assets/Thankyou.png)
+
