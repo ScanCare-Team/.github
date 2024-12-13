@@ -30,12 +30,13 @@ During our brainstorming session, we identified a significant issue: many skinca
 
 ---
 ## Authors
-- [@artikayudia](https://github.com/orgs/ScanCare-Team/people/artikayudia)
-- [@wlndry](https://github.com/orgs/ScanCare-Team/people/wlndry)
-- [@dindaa06](https://github.com/orgs/ScanCare-Team/people/dindaa06)
-- [@Asrin111](https://github.com/orgs/ScanCare-Team/people/Asrin111)
-- [@ALIF0213](https://github.com/orgs/ScanCare-Team/people/ALIF0213)
-- [@andibatari](https://github.com/orgs/ScanCare-Team/people/andibatari)
+- Artika Yudia [@artikayudia](https://github.com/orgs/ScanCare-Team/people/artikayudia)
+- Wulandari [@wlndry](https://github.com/orgs/ScanCare-Team/people/wlndry)
+- Ahmad Raihan Asyam [@feylixia](https://github.com/feylixia)
+- Adinda Khusnul Khotimah [@dindaa06](https://github.com/orgs/ScanCare-Team/people/dindaa06)
+- Asrini Muhsin [@Asrin111](https://github.com/orgs/ScanCare-Team/people/Asrin111)
+- Muhammad Alif Leo [@ALIF0213](https://github.com/orgs/ScanCare-Team/people/ALIF0213)
+- Andi Batari Saudah Sajidah [@andibatari](https://github.com/orgs/ScanCare-Team/people/andibatari)
 
 ![TY](https://github.com/ScanCare-Team/.github/blob/main/assets/TY.png)
 
